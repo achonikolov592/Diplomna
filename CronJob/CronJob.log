@@ -8,3 +8,102 @@
 [INFO]: Encrypted: testfiles/c.txt AT 06 Feb 24 11:31 EET
 [INFO]: Encrypted: testfiles/sub/b.txt AT 06 Feb 24 11:31 EET
 [INFO]: Encrypted Files AT 06 Feb 24 11:31 EET
+[INFO]: Starting CronJob test. AT 15 Feb 24 17:22 EET
+[INFO]: Start creating test files AT 15 Feb 24 17:22 EET
+[INFO]: Encrypted: testfiles/c.txt AT 15 Feb 24 17:22 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 15 Feb 24 17:22 EET
+[INFO]: Encrypted Files AT 15 Feb 24 17:22 EET
+[INFO]: Start creating test files AT 15 Feb 24 17:23 EET
+[INFO]: Encrypted: testfiles/c.txt AT 15 Feb 24 17:23 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 15 Feb 24 17:23 EET
+[INFO]: Encrypted Files AT 15 Feb 24 17:23 EET
+[INFO]: Start creating test files AT 15 Feb 24 17:23 EET
+[INFO]: Encrypted: testfiles/c.txt AT 15 Feb 24 17:23 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 15 Feb 24 17:23 EET
+[INFO]: Encrypted Files AT 15 Feb 24 17:23 EET
+[INFO]: Start creating test files AT 15 Feb 24 17:23 EET
+[INFO]: Encrypted: testfiles/c.txt AT 15 Feb 24 17:23 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 15 Feb 24 17:23 EET
+[INFO]: Encrypted Files AT 15 Feb 24 17:23 EET
+[INFO]: Start creating test files AT 15 Feb 24 17:23 EET
+[INFO]: Encrypted: testfiles/c.txt AT 15 Feb 24 17:23 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 15 Feb 24 17:23 EET
+[INFO]: Encrypted Files AT 15 Feb 24 17:23 EET
+[INFO]: Start creating test files AT 15 Feb 24 17:23 EET
+[INFO]: Encrypted: testfiles/c.txt AT 15 Feb 24 17:23 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 15 Feb 24 17:23 EET
+[INFO]: Encrypted Files AT 15 Feb 24 17:23 EET
+[INFO]: Ending CronJob test. AT 15 Feb 24 17:23 EET
+[INFO]: Starting CronJob test. AT 16 Feb 24 10:15 EET
+[INFO]: Start creating test files AT 16 Feb 24 10:15 EET
+[INFO]: Encrypted: testfiles/c.txt AT 16 Feb 24 10:15 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 16 Feb 24 10:15 EET
+[INFO]: Encrypted Files AT 16 Feb 24 10:15 EET
+[INFO]: Start creating test files AT 16 Feb 24 10:16 EET
+[INFO]: Encrypted: testfiles/c.txt AT 16 Feb 24 10:16 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 16 Feb 24 10:16 EET
+[INFO]: Encrypted Files AT 16 Feb 24 10:16 EET
+[INFO]: Start creating test files AT 16 Feb 24 10:16 EET
+[INFO]: Encrypted: testfiles/c.txt AT 16 Feb 24 10:16 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 16 Feb 24 10:16 EET
+[INFO]: Encrypted Files AT 16 Feb 24 10:16 EET
+[INFO]: Start creating test files AT 16 Feb 24 10:16 EET
+[INFO]: Encrypted: testfiles/c.txt AT 16 Feb 24 10:16 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 16 Feb 24 10:16 EET
+[INFO]: Encrypted Files AT 16 Feb 24 10:16 EET
+[INFO]: Start creating test files AT 16 Feb 24 10:16 EET
+[INFO]: Encrypted: testfiles/c.txt AT 16 Feb 24 10:16 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 16 Feb 24 10:16 EET
+[INFO]: Encrypted Files AT 16 Feb 24 10:16 EET
+[INFO]: Start creating test files AT 16 Feb 24 10:16 EET
+[INFO]: Encrypted: testfiles/c.txt AT 16 Feb 24 10:16 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 16 Feb 24 10:16 EET
+[INFO]: Encrypted Files AT 16 Feb 24 10:16 EET
+[INFO]: Ending CronJob test. AT 16 Feb 24 10:16 EET
+[INFO]: Starting CronJob test. AT 16 Feb 24 10:30 EET
+[INFO]: Start creating test files AT 16 Feb 24 10:30 EET
+[INFO]: Encrypted: testfiles/c.txt AT 16 Feb 24 10:30 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 16 Feb 24 10:30 EET
+[INFO]: Encrypted Files AT 16 Feb 24 10:30 EET
+[INFO]: Start creating test files AT 16 Feb 24 10:31 EET
+[INFO]: Encrypted: testfiles/c.txt AT 16 Feb 24 10:31 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 16 Feb 24 10:31 EET
+[INFO]: Encrypted Files AT 16 Feb 24 10:31 EET
+[INFO]: Start creating test files AT 16 Feb 24 10:31 EET
+[INFO]: Encrypted: testfiles/c.txt AT 16 Feb 24 10:31 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 16 Feb 24 10:31 EET
+[INFO]: Encrypted Files AT 16 Feb 24 10:31 EET
+[INFO]: Start creating test files AT 16 Feb 24 10:31 EET
+[INFO]: Encrypted: testfiles/c.txt AT 16 Feb 24 10:31 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 16 Feb 24 10:31 EET
+[INFO]: Encrypted Files AT 16 Feb 24 10:31 EET
+[INFO]: Start creating test files AT 16 Feb 24 10:31 EET
+[INFO]: Encrypted: testfiles/c.txt AT 16 Feb 24 10:31 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 16 Feb 24 10:31 EET
+[INFO]: Encrypted Files AT 16 Feb 24 10:31 EET
+[INFO]: Start creating test files AT 16 Feb 24 10:31 EET
+[INFO]: Encrypted: testfiles/c.txt AT 16 Feb 24 10:31 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 16 Feb 24 10:31 EET
+[INFO]: Encrypted Files AT 16 Feb 24 10:31 EET
+[INFO]: Ending CronJob test. AT 16 Feb 24 10:31 EET
+[INFO]: Starting CronJob test. AT 16 Feb 24 17:04 EET
+[INFO]: Start creating test files AT 16 Feb 24 17:04 EET
+[INFO]: Encrypted: testfiles/c.txt AT 16 Feb 24 17:04 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 16 Feb 24 17:04 EET
+[INFO]: Encrypted Files AT 16 Feb 24 17:04 EET
+[INFO]: Start creating test files AT 16 Feb 24 17:04 EET
+[INFO]: Encrypted: testfiles/c.txt AT 16 Feb 24 17:04 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 16 Feb 24 17:04 EET
+[INFO]: Encrypted Files AT 16 Feb 24 17:04 EET
+[INFO]: Start creating test files AT 16 Feb 24 17:05 EET
+[INFO]: Encrypted: testfiles/c.txt AT 16 Feb 24 17:05 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 16 Feb 24 17:05 EET
+[INFO]: Encrypted Files AT 16 Feb 24 17:05 EET
+[INFO]: Start creating test files AT 16 Feb 24 17:05 EET
+[INFO]: Encrypted: testfiles/c.txt AT 16 Feb 24 17:05 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 16 Feb 24 17:05 EET
+[INFO]: Encrypted Files AT 16 Feb 24 17:05 EET
+[INFO]: Start creating test files AT 16 Feb 24 17:05 EET
+[INFO]: Encrypted: testfiles/c.txt AT 16 Feb 24 17:05 EET
+[INFO]: Encrypted: testfiles/sub/b.txt AT 16 Feb 24 17:05 EET
+[INFO]: Encrypted Files AT 16 Feb 24 17:05 EET

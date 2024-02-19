@@ -3086,3 +3086,39 @@
 [ERROR]: fork/exec ../CronJobCron: no such file or directory from CronJob AT 15 Feb 24 16:36 EET
 [ERROR]: exit status 1 from GetSystemInformation AT 15 Feb 24 16:36 EET
 [ERROR]: exit status 5 from ExfiltrationOfFiles AT 15 Feb 24 16:36 EET
+[ERROR]: exit status 1 at file ../DLLSideLoading AT 15 Feb 24 17:22 EET
+[ERROR]: exit status 1 at file ../PrivEsc AT 15 Feb 24 17:22 EET
+[ERROR]: exit status 1 at file ../ProHoll64 AT 15 Feb 24 17:22 EET
+[ERROR]: exit status 1 at file ../ProHoll64/mem AT 15 Feb 24 17:22 EET
+[ERROR]: exit status 1 at file ../RegKeys AT 15 Feb 24 17:22 EET
+[ERROR]: exit status 1 at file ../RegKeys/showMessage AT 15 Feb 24 17:22 EET
+[ERROR]: exit status 1 at file ../RevSh AT 15 Feb 24 17:22 EET
+[ERROR]: exit status 1 at file ../ServiceCreation AT 15 Feb 24 17:22 EET
+[ERROR]: exit status 1 at file ../StartupFolderNewFile/ShowBox AT 15 Feb 24 17:22 EET
+[ERROR]: exit status 1 at file ../DLLSideLoading AT 16 Feb 24 10:15 EET
+[ERROR]: exit status 1 at file ../PrivEsc AT 16 Feb 24 10:15 EET
+[ERROR]: exit status 1 at file ../ProHoll64 AT 16 Feb 24 10:15 EET
+[ERROR]: exit status 1 at file ../ProHoll64/mem AT 16 Feb 24 10:15 EET
+[ERROR]: exit status 1 at file ../RegKeys AT 16 Feb 24 10:15 EET
+[ERROR]: exit status 1 at file ../RegKeys/showMessage AT 16 Feb 24 10:15 EET
+[ERROR]: exit status 1 at file ../RevSh AT 16 Feb 24 10:15 EET
+[ERROR]: exit status 1 at file ../ServiceCreation AT 16 Feb 24 10:15 EET
+[ERROR]: exit status 1 at file ../StartupFolderNewFile/ShowBox AT 16 Feb 24 10:15 EET
+[ERROR]: exit status 1 at file ../DLLSideLoading AT 16 Feb 24 10:30 EET
+[ERROR]: exit status 1 at file ../PrivEsc AT 16 Feb 24 10:30 EET
+[ERROR]: exit status 1 at file ../ProHoll64 AT 16 Feb 24 10:30 EET
+[ERROR]: exit status 1 at file ../ProHoll64/mem AT 16 Feb 24 10:30 EET
+[ERROR]: exit status 1 at file ../RegKeys AT 16 Feb 24 10:30 EET
+[ERROR]: exit status 1 at file ../RegKeys/showMessage AT 16 Feb 24 10:30 EET
+[ERROR]: exit status 1 at file ../RevSh AT 16 Feb 24 10:30 EET
+[ERROR]: exit status 1 at file ../ServiceCreation AT 16 Feb 24 10:30 EET
+[ERROR]: exit status 1 at file ../StartupFolderNewFile/ShowBox AT 16 Feb 24 10:30 EET
+[ERROR]: exit status 1 at file ../DLLSideLoading AT 16 Feb 24 17:04 EET
+[ERROR]: exit status 1 at file ../PrivEsc AT 16 Feb 24 17:04 EET
+[ERROR]: exit status 1 at file ../ProHoll64 AT 16 Feb 24 17:04 EET
+[ERROR]: exit status 1 at file ../ProHoll64/mem AT 16 Feb 24 17:04 EET
+[ERROR]: exit status 1 at file ../RegKeys AT 16 Feb 24 17:04 EET
+[ERROR]: exit status 1 at file ../RegKeys/showMessage AT 16 Feb 24 17:04 EET
+[ERROR]: exit status 1 at file ../RevSh AT 16 Feb 24 17:04 EET
+[ERROR]: exit status 1 at file ../ServiceCreation AT 16 Feb 24 17:04 EET
+[ERROR]: exit status 1 at file ../StartupFolderNewFile/ShowBox AT 16 Feb 24 17:04 EET
